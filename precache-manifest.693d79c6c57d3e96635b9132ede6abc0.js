@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d259c4111a6f4c855b648d92b49aeede",
-    "url": "PubMed-app/index.html"
+    "url": "pubmed-app/index.html"
   },
   {
     "revision": "93f8ddaa72b971ab6f01",
