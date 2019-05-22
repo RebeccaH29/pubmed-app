@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f84145f.chunk.css",
-    "main.js": "/static/js/main.70b9b759.chunk.js",
-    "main.js.map": "/static/js/main.70b9b759.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.889325b1.chunk.js": "/static/js/2.889325b1.chunk.js",
-    "static/js/2.889325b1.chunk.js.map": "/static/js/2.889325b1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js": "/precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8f84145f.chunk.css.map": "/static/css/main.8f84145f.chunk.css.map"
+    "main.css": "/pubmed-app/static/css/main.8f84145f.chunk.css",
+    "main.js": "/pubmed-app/static/js/main.70b9b759.chunk.js",
+    "main.js.map": "/pubmed-app/static/js/main.70b9b759.chunk.js.map",
+    "runtime~main.js": "/pubmed-app/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/pubmed-app/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.889325b1.chunk.js": "/pubmed-app/static/js/2.889325b1.chunk.js",
+    "static/js/2.889325b1.chunk.js.map": "/pubmed-app/static/js/2.889325b1.chunk.js.map",
+    "index.html": "/pubmed-app/index.html",
+    "precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js": "/pubmed-app/precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js",
+    "service-worker.js": "/pubmed-app/service-worker.js",
+    "static/css/main.8f84145f.chunk.css.map": "/pubmed-app/static/css/main.8f84145f.chunk.css.map"
   }
 }
