@@ -1,5 +1,4 @@
 {
-  "files": {
     "main.css": "/pubmed-app/static/css/main.8f84145f.chunk.css",
     "main.js": "/pubmed-app/static/js/main.70b9b759.chunk.js",
     "main.js.map": "/pubmed-app/static/js/main.70b9b759.chunk.js.map",
@@ -11,5 +10,4 @@
     "precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js": "/pubmed-app/precache-manifest.693d79c6c57d3e96635b9132ede6abc0.js",
     "service-worker.js": "/pubmed-app/service-worker.js",
     "static/css/main.8f84145f.chunk.css.map": "/pubmed-app/static/css/main.8f84145f.chunk.css.map"
-  }
 }
